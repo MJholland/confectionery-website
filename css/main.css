@@ -7,18 +7,23 @@ body {
 h1,
 h2 {
   font-family: Knewave, serif;
-}
-
-h1 {
   color: #fff;
 }
 
-h2 {
-  color: #4E2E28;
-}
-
+section,
 .logo {
   background-color: #4E2E28;
+}
+
+label,
+dt,
+dd,
+p {
+  color: #fff;
+}
+
+.footer-text {
+  color: #4E2E28;
 }
 
 a {
@@ -40,7 +45,6 @@ a {
   background-color: #593b23
 }
 
-section,
 footer {
   background-color: #fff;
 }

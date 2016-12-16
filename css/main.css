@@ -36,6 +36,10 @@ a {
   text-decoration: none;
 }
 
+a:focus {
+  outline: 3px solid #000;
+}
+
 .btn {
   display: block;
   border-radius: 0;
